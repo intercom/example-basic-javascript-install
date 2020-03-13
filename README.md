@@ -1,6 +1,6 @@
 # Basic JavaScript example Intercom installation
 
-This is the absolute minimum you need to add the Intercom Messenger to your website.
+This is the absolute minimum you need to add the Intercom Messenger to your website for visitors (anonymous users).
 
 ## Instructions
 

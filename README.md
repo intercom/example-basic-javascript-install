@@ -9,3 +9,5 @@ This is the absolute minimum you need to add the Intercom Messenger to your webs
 1. Find and replace `Your_App_ID` in [`index.html`](https://github.com/intercom/example-basic-javascript-install/blob/master/index.html) with your `app_id`.
 1. Open index.html
 1. See the Messenger in the lower right corner!
+
+For more documentation, visit our [documentation](https://developers.intercom.com/installing-intercom/docs/basic-javascript)

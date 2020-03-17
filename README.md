@@ -12,3 +12,5 @@ This is the absolute minimum you need to add the Intercom Messenger to your webs
 1. Fill in user data by replacing `name`, `email`, and `created_at` fields with the user's real info
 1. Open index.html
 1. See Messenger in lower right hand corner!
+
+For more documentation, visit our [documentation](https://developers.intercom.com/installing-intercom/docs/basic-javascript)

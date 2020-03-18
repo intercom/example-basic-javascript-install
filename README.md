@@ -2,7 +2,7 @@
 
 This is the absolute minimum you need to add the Intercom Messenger to your website for logged-in users.
 
-**Note**: This example is somewhat contrived because it's a static HTML page, which means it is impossible to track dynamic user logins without using JavaScript. However, if you have a serverside rendered page, this will show you how you could render the HTML to identify the user to Intercom.
+**Note**: This example is somewhat contrived because it's a static HTML page. However, if you have a serverside rendered page, this will show how you could render the HTML to identify the user to Intercom.
 
 ## Instructions
 

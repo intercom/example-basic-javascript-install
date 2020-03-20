@@ -8,7 +8,7 @@ This is the absolute minimum you need to add the Intercom Messenger to your webs
 
 1. Find your `app_id`
     * After logging into Intercom at [https://app.intercom.com](https://app.intercom.com), your `app_id` is in the URL: `https://app.intercom.com/a/apps/{app_id here}`
-1. Find and replace Your_App_ID in [`index.html`](https://github.com/intercom/example-basic-javascript-install/blob/master/index.html)
+1. Fill in `APP_ID` with your `app_id` in [`index.html`](https://github.com/intercom/example-basic-javascript-install/blob/logged-in/index.html)
 1. Fill in user data by replacing `name`, `email`, and `created_at` fields with the user's real info
 1. Open index.html
 1. See Messenger in lower right hand corner!
